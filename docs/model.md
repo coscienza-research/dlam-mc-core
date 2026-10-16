@@ -1,6 +1,7 @@
 # Model Notes
 
-This document summarizes the implementation choices used by `dlam_mc_core`.
+This document summarizes the mathematical model and implementation choices for `dlam_mc_core`, as detailed in:
+> A. Barra, F. Durante, A. Ladiana, M. Marra Solazzo, *"Do Hopfield networks dream of stored patterns? A statistical–mechanical theory of dreaming in multidirectional associative memories"*, **Neural Networks**, 206:109729 (2026). DOI: [10.1016/j.neunet.2026.109729](https://doi.org/10.1016/j.neunet.2026.109729).
 
 ## Layered data model
 
@@ -71,6 +72,7 @@ The `disentangle` mode requires a common index space (`N1 = N2 = N3`), matching 
 - Local field factorization and Glauber update: `dynamics.py`
 - Simulation orchestration and metadata capture: `simulation.py`
 - Portable result serialization: `io.py`
+- Arbitrary-$L$ replica-symmetric theory & symbolic calculations: `LAM_symbolic_arbitraryL.wl`
 
 ## Numerical reproducibility
 

@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software or the DLAM model, please cite it using the metadata below."
+title: "DLAM Monte Carlo Core"
+type: software
+authors:
+  - given-names: Andrea
+    family-names: Ladiana
+repository-code: "https://github.com/andrealadiana/dlam-mc-core"
+license: MIT
+version: 0.1.0
+date-released: 2026-10-09
+preferred-citation:
+  type: article
+  authors:
+    - given-names: Adriano
+      family-names: Barra
+    - given-names: Fabrizio
+      family-names: Durante
+    - given-names: Andrea
+      family-names: Ladiana
+    - given-names: Michela
+      family-names: "Marra Solazzo"
+  title: "Do Hopfield networks dream of stored patterns? A statistical–mechanical theory of dreaming in multidirectional associative memories"
+  journal: "Neural Networks"
+  volume: 206
+  pages: "109729"
+  year: 2026
+  doi: "10.1016/j.neunet.2026.109729"
+  url: "https://doi.org/10.1016/j.neunet.2026.109729"
