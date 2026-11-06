@@ -45,11 +45,11 @@ performance = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/andrealadiana/dlam-mc-core"
-Repository = "https://github.com/andrealadiana/dlam-mc-core"
+Homepage = "https://github.com/coscienza-research/dlam-mc-core"
+Repository = "https://github.com/coscienza-research/dlam-mc-core"
 Publication = "https://doi.org/10.1016/j.neunet.2026.109729"
 arXiv = "https://arxiv.org/abs/2605.13721"
-Issues = "https://github.com/andrealadiana/dlam-mc-core/issues"
+Issues = "https://github.com/coscienza-research/dlam-mc-core/issues"
 
 [tool.setuptools]
 package-dir = {"" = "src"}

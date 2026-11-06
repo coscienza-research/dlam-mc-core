@@ -5,7 +5,7 @@ type: software
 authors:
   - given-names: Andrea
     family-names: Ladiana
-repository-code: "https://github.com/andrealadiana/dlam-mc-core"
+repository-code: "https://github.com/coscienza-research/dlam-mc-core"
 license: MIT
 version: 0.1.0
 date-released: 2026-10-09

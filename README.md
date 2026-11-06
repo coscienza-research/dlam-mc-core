@@ -239,4 +239,4 @@ You can also use GitHub's **"Cite this repository"** button in the sidebar (powe
 
 ## License
 
-MIT License — Copyright (c) 2026 Andrea Ladiana. See [`LICENSE`](LICENSE) for details.
+MIT License — Copyright (c) 2026 Andrea Ladiana, Scuderia "Cò'Scienza" (Sapienza University of Rome). See [`LICENSE`](LICENSE) for details.
